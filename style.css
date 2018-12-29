@@ -6,6 +6,7 @@ line-height:1;
   }
   body
 {
+
   font-family: sherif ;
   max-width: 650px;
 margin: 40px auto;
@@ -14,10 +15,26 @@ padding: 0 10px;
 font-size: 18px;
 line-height: 1.6;
 box-sizing: content-box;
+
 }
 
 .sanssaut
 {
 padding:0;
+
+}
+
+<div id="exemple">Pif paf pouf</div>
+
+#exemple
+
+{
+   background-color: #ff0;
+
+   color: #0f0;
+
+   font-size: 1.2em;
+
+   text-align: center;
 
 }
