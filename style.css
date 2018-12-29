@@ -1,0 +1,23 @@
+
+
+h1,h2,h2
+{
+line-height:1;
+  }
+  body
+{
+  font-family: sherif ;
+  max-width: 650px;
+margin: 40px auto;
+color:#444;
+padding: 0 10px;
+font-size: 18px;
+line-height: 1.6;
+box-sizing: content-box;
+}
+
+.sanssaut
+{
+padding:0;
+
+}
